@@ -117,21 +117,17 @@ body{
     font-size: 16px; 
     /* color: #000000; */
   }
-/*   
+  
+  
   .g-card.basic .card-front{
     background: linear-gradient(135deg, #fda000 0%, #d31f8a);
   }
   .g-card.basic .card-back{
     background: linear-gradient(135deg, #d31f8a 0%, #fda000);
   }
-   */
+  
 
-   .g-card.basic .card-front{
-    background: linear-gradient(135deg, #43cea2 0%, #185a9d);
-  }
-  .g-card.basic .card-back{
-    background: linear-gradient(135deg, #185a9d 0%, #43cea2);
-  }
+
 
   .g-card.plus .card-front{
     background: linear-gradient(135deg, #ef2fc1 0%, #6094ea);
@@ -149,10 +145,4 @@ body{
   
 
 
-  /* .g-card.pro .card-front{
-    background: linear-gradient(135deg, #276174 0%, #33c58e);
-  }
-  .g-card.pro .card-back{
-    background: linear-gradient(135deg, #33c58e 0%, #276174);
-  }
-   */
+ 
